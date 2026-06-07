@@ -1,0 +1,8 @@
+[package]
+name = "renormalization-group-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Renormalization group for multi-scale analysis of agent systems"
+license = "MIT"
+
+[dependencies]
