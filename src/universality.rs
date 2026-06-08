@@ -189,6 +189,7 @@ pub fn scaling_relation_violations(
 #[cfg(test)]
 mod tests {
     use super::*;
+    use crate::fixed_point::StabilityType;
 
     #[test]
     fn test_ising_exponents() {
